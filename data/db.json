@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "hasan",
+      "email": "rtyuio@gmail.com",
+      "phone": 87534216352
+    },
+    {
+      "id": "c4df",
+      "name": "Abdulaziz",
+      "email": "elboyevlazizcik@gmail.com",
+      "phone": 998935422477
+    },
+    {
+      "id": "3896",
+      "name": "hasan",
+      "email": "rtyuio@gmail.com",
+      "phone": 87534216352
+    }
+  ]
+}
